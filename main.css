@@ -14,5 +14,13 @@ header{
         grid-row:1/2 ;
         width:50px;
         height: 50px
-        i
+    }
+    .dayconcept img{
+        width: 150px;
+    } 
+    .destacateconcept-div img{
+        width: 150px;
+    }
+    .culture-div img{
+        width: 150px;
     }
