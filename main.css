@@ -9,13 +9,13 @@ header{
         grid-column: 1/3;
         grid-row: 2/3;
     }
-    img{
+    header img{
         grid-column: 2/3;
         grid-row:1/2 ;
         width:50px;
         height: 50px
     }
-    .dayconcept img{
+    .dayConcept img{
         width: 150px;
     } 
     .destacateconcept-div img{
