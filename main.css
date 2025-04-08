@@ -24,3 +24,11 @@ header{
     .culture-div img{
         width: 150px;
     }
+    .popularconcept img{
+        width: 200px;
+    }
+    .popularconceptimg{
+        width: 100%;
+        display:flex;
+        flex-wrap: wrap;
+    }
