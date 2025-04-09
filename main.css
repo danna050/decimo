@@ -32,3 +32,23 @@ header{
         display:flex;
         flex-wrap: wrap;
     }
+    .popularconceptimg{
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        gap: 10px;
+    }
+    .recientconcept img{
+        width: 200px;
+    }
+    .recientconcept{
+        width: 100%;
+        display:flex;
+        flex-wrap: wrap;
+    }
+    .recientconceptimg{
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        gap: 10px;
+    }
